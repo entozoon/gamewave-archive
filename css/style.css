@@ -1,0 +1,37 @@
+body 
+{background-color: #ADD9FA;
+color: #000000;
+font: 14px Verdana, sans-serif;}
+
+div.text
+{width: 60%;}
+
+h2
+{margin: 20px;}
+
+h4
+{margin: 20px;}
+
+p.margin
+{margin: 20px;}
+
+p.fb
+{margin-left: 20px;}
+
+ol, ul
+{margin: 20px;}
+
+div.wavelogotrans
+{margin: 20px;}
+
+div.rss
+{margin: 20px;}
+
+div.twitter
+{margin: 20px;}
+
+div.fb-like 
+{margin-left: 20px;}
+
+img.logo
+{margin-right: 50px;}
