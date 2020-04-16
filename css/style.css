@@ -1,7 +1,9 @@
 body 
 {background-color: #ADD9FA;
 color: #000000;
-font: 14px Verdana, sans-serif;}
+font: 14px Verdana, sans-serif;
+padding-bottom:3em;
+}
 
 div.text
 {width: 60%;}
