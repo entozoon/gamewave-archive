@@ -6,7 +6,7 @@ rem ***************************
 set committingDir="episodes"
 set limit=3
 set delay=60
-set startPoint=6
+set startPoint=0
 rem ***************************
 
 set originalDir=%cd%
